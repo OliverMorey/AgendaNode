@@ -1,0 +1,16 @@
+Pasos para ingresar a la WEB Agenda en Node.js
+
+1. Abrir consola Node.js
+2. Ubicarse en el directorio del proyecto 
+   D:\xampp\htdocs\Agenda_node>
+3. Después el paso 2 escribir node server
+4. Abrir Chroome - http://localhost:8082
+
+
+
+Consultar BDs MONGO
+1. C:\Users\omore>mongo
+2. >show dbs
+3. >use agenda
+4. >db.usuarios.find()
+5. >db.eventos.find()

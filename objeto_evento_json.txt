@@ -1,0 +1,102 @@
+[
+  model {
+    '$__': InternalCache {
+      strictMode: true,
+      selected: undefined,
+      shardval: undefined,
+      saveError: undefined,
+      validationError: undefined,
+      adhocPaths: undefined,
+      removing: undefined,
+      inserting: undefined,
+      version: undefined,
+      getters: {},
+      _id: undefined,
+      populate: undefined,
+      populated: undefined,
+      wasPopulated: false,
+      scope: undefined,
+      activePaths: [StateMachine],
+      ownerDocument: undefined,
+      fullPath: undefined,
+      emitter: [EventEmitter]
+    },
+    isNew: false,
+    errors: undefined,
+    _doc: {
+      __v: 0,
+      dia_completo: false,
+      fecha_finalizacion: 2020-11-18T16:00:00.000Z,
+      fecha_inicio: 2020-11-18T14:00:00.000Z,
+      titulo: 'Entrevista de Trabajo',
+      userId: '5f9ef5e3d266463374e7022a',
+      _id: [ObjectID]
+    },
+    '$__original_save': [Function] { numAsyncPres: 1 },
+    save: [Function: wrappedPointCut],
+    _pres: {
+      '$__original_save': [Array],
+      '$__original_validate': [Array],
+      '$__original_remove': [Array]
+    },
+    _posts: {
+      '$__original_save': [],
+      '$__original_validate': [],
+      '$__original_remove': []
+    },
+    '$__original_validate': [Function] { numAsyncPres: 1 },
+    validate: [Function: wrappedPointCut],
+    '$__original_remove': [Function] { numAsyncPres: 1 },
+    remove: [Function: wrappedPointCut]
+  },
+  model {
+    '$__': InternalCache {
+      strictMode: true,
+      selected: undefined,
+      shardval: undefined,
+      saveError: undefined,
+      validationError: undefined,
+      adhocPaths: undefined,
+      removing: undefined,
+      inserting: undefined,
+      version: undefined,
+      getters: {},
+      _id: undefined,
+      populate: undefined,
+      populated: undefined,
+      wasPopulated: false,
+      scope: undefined,
+      activePaths: [StateMachine],
+      ownerDocument: undefined,
+      fullPath: undefined,
+      emitter: [EventEmitter]
+    },
+    isNew: false,
+    errors: undefined,
+    _doc: {
+      __v: 0,
+      dia_completo: false,
+      fecha_finalizacion: 2020-11-11T15:00:00.000Z,
+      fecha_inicio: 2020-11-11T13:00:00.000Z,
+      titulo: 'Entrevista de Trabajo',
+      userId: '5f9ef5e3d266463374e7022a',
+      _id: [ObjectID]
+    },
+    '$__original_save': [Function] { numAsyncPres: 1 },
+    save: [Function: wrappedPointCut],
+    _pres: {
+      '$__original_save': [Array],
+      '$__original_validate': [Array],
+      '$__original_remove': [Array]
+    },
+    _posts: {
+      '$__original_save': [],
+      '$__original_validate': [],
+      '$__original_remove': []
+    },
+    '$__original_validate': [Function] { numAsyncPres: 1 },
+    validate: [Function: wrappedPointCut],
+    '$__original_remove': [Function] { numAsyncPres: 1 },
+    remove: [Function: wrappedPointCut]
+  }
+]
